@@ -18,7 +18,8 @@ class AboutMe:
             },
             "devops": ["AWS", "GCP", "Docker🐳", "CI/CD"],
             "databases": ["mongo", "MySql", "postgres", "dynamodb", "redis"],
-            "misc": ["Firebase", "Elasticsearch"]
+            "misc": ["Firebase", "Elasticsearch"],
+            "socket": ["SocketIO", "ZeroMQ"]
         }
 
     def say_hi(self):
