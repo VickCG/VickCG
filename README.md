@@ -16,7 +16,7 @@ class AboutMe:
                 "nodejs": ["NestJS", "Express", "AdonisJS"],
                 "python": ["Fast API", "Django"]
             },
-            "devops": ["AWS", "GCP", "Docker🐳", "CI/CD"],
+            "devops": ["AWS", "GCP", "Digital Ocean", "Docker🐳", "CI/CD"],
             "databases": ["mongo", "MySql", "postgres", "dynamodb", "redis"],
             "misc": ["Firebase", "Elasticsearch"],
             "socket": ["SocketIO"],
