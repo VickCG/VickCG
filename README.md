@@ -20,7 +20,7 @@ class AboutMe:
             "databases": ["mongo", "MySql", "postgres", "dynamodb", "redis"],
             "misc": ["Firebase", "Elasticsearch"],
             "socket": ["SocketIO"],
-            "MQ": ["ZeroMQ", "Amazon SQS", "Rabbit MQ"]
+            "MQ": ["ZeroMQ", "Amazon SQS"]
         }
 
     def say_hi(self):
