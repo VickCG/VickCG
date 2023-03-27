@@ -11,16 +11,17 @@ class AboutMe:
         self.role = "Free guy at home"
         self.location = "Hanoi"
         self.technologies = {
-            "front_end": ["Angular", "React"],
-            "back_end": {
-                "nodejs": ["NestJS", "Express", "AdonisJS"],
-                "python": ["Fast API", "Django"]
+            "Front_end": ["Angular", "React"],
+            "Back_end": {
+                "Nodejs": ["NestJS", "Express", "AdonisJS"],
+                "Python": ["Fast API", "Django", "Pandas", "Matplotlib", "Plotly"]
             },
-            "devops": ["AWS", "GCP", "Digital Ocean", "Docker🐳", "CI/CD"],
-            "databases": ["mongo", "MySql", "postgres", "dynamodb", "redis"],
-            "misc": ["Firebase", "Elasticsearch"],
-            "socket": ["SocketIO"],
-            "MQ": ["ZeroMQ", "Amazon SQS"]
+            "Devops": ["AWS", "GCP", "Digital Ocean", "Docker🐳", "CI/CD"],
+            "Databases": ["Mongo", "MySql", "Postgres", "Dynamodb", "Redis"],
+            "Misc": ["Firebase", "Elasticsearch"],
+            "Socket": ["SocketIO"],
+            "MQ": ["ZeroMQ", "Amazon SQS"],
+            "Testing": ["Jest", "Cypress", "Pytest"]
         }
 
     def say_hi(self):
