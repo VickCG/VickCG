@@ -8,7 +8,7 @@
 class AboutMe:
     def __init__(self):
         self.name = "VickCG"
-        self.role = "Free guy at home"
+        self.role = "Free guy"
         self.location = "Hanoi"
         self.technologies = {
             "Front_end": ["Angular", "React"],
@@ -19,8 +19,6 @@ class AboutMe:
             "Devops": ["AWS", "GCP", "Digital Ocean", "Docker🐳", "CI/CD"],
             "Databases": ["Mongo", "MySql", "Postgres", "Dynamodb", "Redis"],
             "Misc": ["Firebase", "Elasticsearch"],
-            "Socket": ["SocketIO"],
-            "MQ": ["ZeroMQ", "Amazon SQS"],
             "Testing": ["Jest", "Cypress", "Pytest"]
         }
 
