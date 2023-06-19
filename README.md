@@ -8,7 +8,6 @@
 class AboutMe:
     def __init__(self):
         self.name = "VickCG"
-        self.role = "Free guy"
         self.location = "Hanoi"
         self.technologies = {
             "Front_end": ["Angular", "React"],
