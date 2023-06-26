@@ -13,7 +13,7 @@ class AboutMe:
             "Front_end": ["Angular", "React"],
             "Back_end": {
                 "Nodejs": ["NestJS", "Express", "AdonisJS"],
-                "Python": ["Fast API", "Django", "Pandas", "Matplotlib", "Plotly"]
+                "Python": ["Fast API", "Django", "Pandas"]
             },
             "Devops": ["AWS", "GCP", "Digital Ocean", "Docker🐳", "CI/CD"],
             "Databases": ["Mongo", "MySql", "Postgres", "Dynamodb", "Redis"],
