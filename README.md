@@ -10,10 +10,8 @@ class AboutMe:
         self.name = "VickCG"
         self.location = "Hanoi"
         self.technologies = {
-            "Front_end": ["Angular", "React"],
             "Back_end": {
-                "Nodejs": ["NestJS", "Express", "AdonisJS"],
-                "Python": ["Fast API", "Django", "Pandas"]
+                "Python": ["Fast API", "Django"]
             },
             "Devops": ["AWS", "GCP", "Digital Ocean", "Docker🐳", "CI/CD"],
             "Databases": ["Mongo", "MySql", "Postgres", "Dynamodb", "Redis"],
