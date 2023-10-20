@@ -10,7 +10,6 @@
 
 - Building AI-empowered applications based on LLMs and OpenAI technology.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=VickCG&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=VickCG&theme=highcontrast&hide_border=true" width="350" style="margin-left: 8px;"/></a>
 
 ### My Skills 📜
