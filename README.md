@@ -24,6 +24,7 @@
 - **HTML, CSS, SASS, SCSS**
 - **Database:** PostgreSQL, MySQL, MongoDB, CouchBase, SQLite.
 - **Message queue:** AWS SQS, RabbitMQ, Kafka.
+- **Elasticsearch**
 - **AWS**
 - **GCP**
 - **Docker/Docker Compose.**
