@@ -2,7 +2,7 @@
 
 🚀 With over a decade of experience, I've honed my skills in crafting top-notch proprietary enterprise software products. My journey is all about utilizing diverse technologies to design, develop, and deploy enterprise-class solutions while gaining deep insights into customers' needs and product usage.
 
-👨‍🏭 Leading and mentoring teams, I establish coding standards and UI best practices. My extensive app development background ensures I'm always at the forefront of innovative UI engineering.
+👨‍🏭 Leading and mentoring teams, I establish coding standards and UI best practices.
 
 🛠️ My technical skill includes Python, NodeJS, ReactJS/NextJS, AWS, GCP, and AI/LLMs.
 
@@ -32,25 +32,25 @@
 - **Testing:** Pytest, Jest, Cypress
 
 
-<img align="left" alt="Python" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
-<img align="left" alt="Django" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
-<img align="left" alt="FastAPI" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-original-wordmark.svg"/>
-<img align="left" alt="Express" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg"/>
-<img align="left" alt="Adonis" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/adonisjs/adonisjs-original-wordmark.svg"/>
-<img align="left" alt="NestJS" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain-wordmark.svg"/>
-<img align="left" alt="Javascript" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Typescript" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="ReactJS" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg"/>
-<img align="left" alt="NextJS" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg"/>
-<img align="left" alt="HTML" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg"/>
-<img align="left" alt="CSS" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg"/>
-<img align="left" alt="SASS" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg"/>
-<img align="left" alt="Postgres" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg"/>
-<img align="left" alt="MySQL" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" alt="MongoDB" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg"/>
-<img align="left" alt="AWS" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-<img align="left" alt="GCP" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original-wordmark.svg"/>
-<img align="left" alt="Kafka" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg"/>
-<img align="left" alt="Docker" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg"/>
-<img align="left" alt="CICD" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/circleci/circleci-plain-wordmark.svg"/>
-<img align="left" alt="Pytest" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytest/pytest-original-wordmark.svg"/>
+<img align="left" alt="Python" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
+<img align="left" alt="Django" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
+<img align="left" alt="FastAPI" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-original-wordmark.svg"/>
+<img align="left" alt="Express" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg"/>
+<img align="left" alt="Adonis" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/adonisjs/adonisjs-original-wordmark.svg"/>
+<img align="left" alt="NestJS" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain-wordmark.svg"/>
+<img align="left" alt="Javascript" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Typescript" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="ReactJS" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg"/>
+<img align="left" alt="NextJS" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg"/>
+<img align="left" alt="HTML" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg"/>
+<img align="left" alt="CSS" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg"/>
+<img align="left" alt="SASS" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg"/>
+<img align="left" alt="Postgres" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg"/>
+<img align="left" alt="MySQL" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="MongoDB" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="AWS" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img align="left" alt="GCP" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original-wordmark.svg"/>
+<img align="left" alt="Kafka" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg"/>
+<img align="left" alt="Docker" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg"/>
+<img align="left" alt="CICD" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/circleci/circleci-plain-wordmark.svg"/>
+<img align="left" alt="Pytest" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytest/pytest-original-wordmark.svg"/>
