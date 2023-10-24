@@ -31,10 +31,10 @@
 - **CI/CD**
 - **Testing:** Pytest, Jest, Cypress
 
-
 <img align="left" alt="Python" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
 <img align="left" alt="FastAPI" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/fastapi/fastapi-original-wordmark.svg"/>
+<img align="left" alt="NodeJS" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="Express" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg"/>
 <img align="left" alt="Adonis" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/adonisjs/adonisjs-original-wordmark.svg"/>
 <img align="left" alt="NestJS" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain-wordmark.svg"/>
