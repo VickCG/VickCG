@@ -4,7 +4,7 @@
 
 👨‍🏭 Leading and mentoring teams, I establish coding standards.
 
-🛠️ My technical skill includes Python, NodeJS, AWS, GCP, and AI/LLM.
+🛠️ My technical skill includes Python, NodeJS, ReactJS, AWS, GCP, and AI/LLM.
 
 ### What I'm currently focusing 📚
 
