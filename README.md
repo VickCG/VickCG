@@ -8,7 +8,7 @@
 
 ### What I'm currently focusing 📚
 
-- Build AI-enabled applications based on LLM/OpenAI technology.
+- Build AI-enabled applications based on LLM/OpenAI technology and Blockchain products.
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=VickCG&theme=highcontrast&hide_border=true" width="350" style="margin-left: 8px;"/></a>
 
