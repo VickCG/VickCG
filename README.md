@@ -4,7 +4,7 @@
 
 👨‍🏭 Leading and mentoring teams, I establish coding standards.
 
-🛠️ My technical skill includes Python, NodeJS, ReactJS, AWS, GCP, and AI/LLM.
+🛠️ My technical skill includes Python, NodeJS, ReactJS, AWS, GCP, Blockchain and AI/LLM.
 
 ### What I'm currently focusing 📚
 
@@ -16,6 +16,7 @@
 
 - **Python:** Django, FastAPI, Pandas, Numpy, Plotly, Matplotlib, IPython, etc.
 - **NodeJS:** ExpressJS, AdonisJS, NestJS, PassportJS, Lodash, MomentJS, etc.
+- **Blockchain**
 - **AI/LLM**
 - **JavaScript**
 - **TypeScript**
