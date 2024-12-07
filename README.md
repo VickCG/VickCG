@@ -1,14 +1,14 @@
 ## Hi there! 👋 I'm Vick, a passionate Software Engineer.
 
-🚀 With over a decade of experience, I've honed my skills in crafting cutting-edge software products. My journey is all about utilizing diverse technologies to design, develop, and deploy product-class solutions while gaining deep insights into today's latest technologies.
+🚀 With over a decade of experience, I've honed my skills in crafting cutting-edge software products. My journey is all about utilizing diverse technologies to design, develop, and deploy product solutions while gaining deep insights into today's latest technologies.
 
 👨‍🏭 Leading and mentoring teams, I establish coding standards.
 
-🛠️ My technical skill includes Python, NodeJS, ReactJS, AWS, GCP, Blockchain and AI/LLM.
+🛠️ My technical skill includes Python, NodeJS, ReactJS, AWS, GCP and AI/LLM.
 
 ### What I'm currently focusing 📚
 
-- Build AI-enabled applications based on LLM/OpenAI technology and Blockchain products.
+- Build AI-enabled applications based on LLMs products.
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=VickCG&theme=highcontrast&hide_border=true" width="350" style="margin-left: 8px;"/></a>
 
