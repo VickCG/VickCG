@@ -1,14 +1,14 @@
 ## Hi there! 👋 I'm Vick, a passionate Software Engineer.
 
-🚀 With over a decade of experience, I've specialized in building sophisticated trading systems and AI-powered solutions. My expertise lies in developing automated trading platforms, algorithmic strategies, and integrating AI/LLM technologies to enhance trading operations.
+🚀 With over a decade of experience, I've specialized in building AI-powered solutions with a focus on Large Language Models (LLMs), generative AI, and machine learning.
 
 👨‍🏭 Leading and mentoring teams, I establish coding standards.
 
-🛠️ My core expertise includes automated trading systems, real-time market analysis, AI/LLM integration, and quantitative strategy development.
+🛠️ My core expertise includes experimenting with generative AI to develop creative and impactful solutions across various domains.
 
 ### What I'm currently focusing 📚
 
-- Developing AI-powered trading systems leveraging LLMs for market analysis, strategy optimization, and automated trading decisions.
+- Developing AI-Powered Applications.
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=VickCG&theme=highcontrast&hide_border=true" width="350" style="margin-left: 8px;"/></a>
 
