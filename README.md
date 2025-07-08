@@ -16,7 +16,6 @@
 
 - **Python:** Django, FastAPI, Pandas, Numpy, Plotly, Matplotlib, IPython, etc.
 - **NodeJS:** ExpressJS, AdonisJS, NestJS, PassportJS, Lodash, MomentJS, etc.
-- **Blockchain**
 - **AI/LLM**
 - **JavaScript**
 - **TypeScript**
