@@ -11,7 +11,7 @@
 - Retrieval-Augmented Generation (RAG) at scale
 - AI automation for SaaS & enterprise products
 
-🤖 AI & LLM Expertise (2026-Ready)
+🤖 AI & LLM Expertise
 - LLM Providers: OpenAI, Anthropic, Gemini, open-source models (LLaMA, Mistral)
 - Prompt Engineering → Prompt Architecture (contracts, templates, versioning)
 - Agentic Systems: tool-calling, multi-agent coordination, memory systems
