@@ -1,33 +1,45 @@
-## Hi there! 👋 I'm Vick, a passionate Software Engineer.
+Hi there! 👋 I’m Vick
 
-🚀 With over a decade of experience, I've specialized in building AI-powered solutions with a focus on Large Language Models (LLMs), generative AI, and machine learning.
+🚀 Senior Software Engineer & AI Engineer with 10+ years of experience building production-grade systems, now deeply focused on AI-native applications and LLM-powered products.
 
-👨‍🏭 Leading and mentoring teams, I establish coding standards.
+👨‍🏭 I design, build, and scale AI-first systems where Large Language Models are core infrastructure, not add-ons. My work bridges software engineering rigor and modern AI capabilities, turning LLMs into reliable, controllable, and cost-efficient production systems.
 
-🛠️ My core expertise includes experimenting with generative AI to develop creative and impactful solutions across various domains.
 
 ### What I'm currently focusing 📚
+- AI-Powered Applications & Platforms
+- LLM orchestration & agentic workflows
+- Retrieval-Augmented Generation (RAG) at scale
+- AI automation for SaaS & enterprise products
 
-- Developing AI-Powered Applications.
+🤖 AI & LLM Expertise (2026-Ready)
+- LLM Providers: OpenAI, Anthropic, Gemini, open-source models (LLaMA, Mistral)
+- Prompt Engineering → Prompt Architecture (contracts, templates, versioning)
+- Agentic Systems: tool-calling, multi-agent coordination, memory systems
+- RAG: chunking strategies, hybrid search, reranking, embeddings optimization
+- Vector Databases: Milvus, Pinecone, FAISS, pgvector
+- LLM Evaluation: offline/online evals, hallucination detection, quality scoring
+- AI Orchestration: LangGraph, LangChain, custom workflow engines
+- AI Safety & Cost Control: guardrails, rate limits, fallback models
+- AI-Generated Content: text, documents, emails, reports, automation flows
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=VickCG&theme=highcontrast&hide_border=true" width="350" style="margin-left: 8px;"/></a>
+🧰 Engineering Stack
+Backend
+- Python: FastAPI, Django, Pandas, NumPy, PyTorch (applied), Plotly, Matplotlib
+- Node.js: NestJS, Express, AdonisJS
 
-### My Skills 📜
+Frontend
+- ReactJS, TypeScript, modern state management
 
-- **Python:** Django, FastAPI, Pandas, Numpy, Plotly, Matplotlib, IPython, etc.
-- **NodeJS:** ExpressJS, AdonisJS, NestJS, PassportJS, Lodash, MomentJS, etc.
-- **AI/LLM**
-- **JavaScript**
-- **TypeScript**
-- **ReactJS**
-- **Database:** PostgreSQL, MySQL, MongoDB, CouchBase, SQLite.
-- **Message queue:** AWS SQS, RabbitMQ, Kafka.
-- **Elasticsearch**
-- **AWS**
-- **GCP**
-- **Docker/Docker Compose.**
-- **CI/CD**
-- **Testing:** Pytest, Jest, Cypress
+Data & Infra
+- Databases: PostgreSQL, MySQL, MongoDB, Couchbase, SQLite
+- Search: Elasticsearch
+- Messaging: AWS SQS, Kafka, RabbitMQ
+- Cloud: AWS, GCP
+- DevOps: Docker, Docker Compose, CI/CD pipelines
+
+Quality
+- Testing: Pytest, Jest, Cypress
+- Production Monitoring: logs, metrics, AI output tracing
 
 <img align="left" alt="Python" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
