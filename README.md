@@ -1,4 +1,4 @@
-Hi there! 👋 I’m Vick
+### Hi there! 👋 I’m Vick
 
 🚀 Senior Software Engineer & AI Engineer with 10+ years of experience building production-grade systems, now deeply focused on AI-native applications and LLM-powered products.
 
