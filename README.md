@@ -1,26 +1,26 @@
 ### Hi there! 👋 I’m Vick
 
-🚀 Senior Software Engineer & AI Engineer with 10+ years of experience building production-grade systems, now deeply focused on AI-native applications and LLM-powered products.
+🚀 I’m a Senior Software Engineer & AI Engineer with over 10 years of experience building real-world systems that actually run in production. These days, I spend most of my time working on AI-powered products, especially applications built around LLMs.
 
-👨‍🏭 I design, build, and scale AI-first systems where Large Language Models are core infrastructure, not add-ons. My work bridges software engineering rigor and modern AI capabilities, turning LLMs into reliable, controllable, and cost-efficient production systems.
+👨‍🏭 I enjoy owning systems end to end, from designing the architecture and writing clean code, to integrating AI and making sure everything is stable, efficient, and maintainable in the long run. For me, LLMs aren’t just features to plug in, they’re part of the core system that needs to be designed carefully to work well at scale.
 
 
 ### What I'm currently focusing 📚
-- AI-Powered Applications & Platforms
-- LLM orchestration & agentic workflows
-- Retrieval-Augmented Generation (RAG) at scale
-- AI automation for SaaS & enterprise products
+- Building practical AI-powered applications and platforms
+- Designing LLM workflows and AI agents that solve real problems
+- Implementing RAG systems that work reliably with real data
+- Using AI to automate workflows for SaaS and enterprise products
 
 🤖 AI & LLM Expertise
-- LLM Providers: OpenAI, Anthropic, Gemini, open-source models (LLaMA, Mistral)
-- Prompt Engineering → Prompt Architecture (contracts, templates, versioning)
-- Agentic Systems: tool-calling, multi-agent coordination, memory systems
-- RAG: chunking strategies, hybrid search, reranking, embeddings optimization
-- Vector Databases: Milvus, Pinecone, FAISS, pgvector
-- LLM Evaluation: offline/online evals, hallucination detection, quality scoring
-- AI Orchestration: LangGraph, LangChain, custom workflow engines
-- AI Safety & Cost Control: guardrails, rate limits, fallback models
-- AI-Generated Content: text, documents, emails, reports, automation flows
+- Hands-on experience with LLM providers including OpenAI, Anthropic, Gemini.
+- Strong focus on prompt architecture (reusable templates, contracts, and versioning), not just one-off prompts.
+- Built agentic systems with tool calling, multi-agent coordination, and memory.
+- Designed and shipped RAG pipelines with hybrid search, embeddings, and reranking.
+- Worked with vector databases such as Milvus, Pinecone, FAISS, and pgvector.
+- Set up LLM evaluation to track quality, reduce hallucinations, and monitor performance.
+- Used LLM orchestration frameworks like LangGraph and LangChain, plus custom workflows when needed.
+- Production-focused approach to AI safety, cost control, and fallbacks.
+- Shipped AI-generated content systems (emails, documents, reports, automation).
 
 🧰 Engineering Stack
 Backend
