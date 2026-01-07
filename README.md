@@ -1,45 +1,33 @@
 ### Hi there! 👋 I’m Vick
 
-🚀 I’m a Senior Software Engineer & AI Engineer with over 10 years of experience building real-world systems that actually run in production. These days, I spend most of my time working on AI-powered products, especially applications built around LLMs.
+🚀 I’m a Senior Software Engineer with 10+ years of experience building, scaling, and maintaining production-grade systems across web, backend, and cloud infrastructure. Over the years, I’ve worked on everything from core business platforms to high-traffic SaaS products, always with a strong focus on reliability, performance, and clean architecture.
 
-👨‍🏭 I enjoy owning systems end to end, from designing the architecture and writing clean code, to integrating AI and making sure everything is stable, efficient, and maintainable in the long run. For me, LLMs aren’t just features to plug in, they’re part of the core system that needs to be designed carefully to work well at scale.
+👨‍💻 I enjoy owning systems end to end, from system design and API architecture, to database modeling, infrastructure, and long-term maintainability. I care deeply about writing clear, testable code and building systems that other engineers can confidently extend.|
+
+🤖 In recent years, I’ve specialized in AI-powered software, integrating LLMs into real products — not as experiments, but as first-class system components. My approach to AI is strongly engineering-driven: designing workflows, safeguards, and infrastructure so AI features remain stable, observable, and cost-effective in production.
 
 
 ### What I'm currently focusing 📚
-- Building practical AI-powered applications and platforms
-- Designing LLM workflows and AI agents that solve real problems
-- Implementing RAG systems that work reliably with real data
-- Using AI to automate workflows for SaaS and enterprise products
+- Building and scaling production-ready backend systems
+- Designing APIs and system architectures for long-term growth
+- Developing AI-assisted features that automate real business workflows
+- Improving reliability, performance, and observability of AI systems
+
+🧰 Software Engineering Expertise 
+- Backend system design, clean architecture, and domain-driven thinking
+- API development (REST, async workflows, background jobs)
+- Data modeling and performance optimization
+- Distributed systems, messaging, and event-driven architecture
+- Cloud infrastructure, CI/CD, and production monitoring
+- Writing tests and building systems that are easy to maintain over time
 
 🤖 AI & LLM Expertise
-- Hands-on experience with LLM providers including OpenAI, Anthropic, Gemini.
-- Strong focus on prompt architecture (reusable templates, contracts, and versioning), not just one-off prompts.
-- Built agentic systems with tool calling, multi-agent coordination, and memory.
-- Designed and shipped RAG pipelines with hybrid search, embeddings, and reranking.
-- Worked with vector databases such as Milvus, Pinecone, FAISS, and pgvector.
-- Set up LLM evaluation to track quality, reduce hallucinations, and monitor performance.
-- Used LLM orchestration frameworks like LangGraph and LangChain, plus custom workflows when needed.
-- Production-focused approach to AI safety, cost control, and fallbacks.
-- Shipped AI-generated content systems (emails, documents, reports, automation).
-
-🧰 Engineering Stack
-Backend
-- Python: FastAPI, Django, Pandas, NumPy, PyTorch (applied), Plotly, Matplotlib
-- Node.js: NestJS, Express, AdonisJS
-
-Frontend
-- ReactJS, TypeScript, modern state management
-
-Data & Infra
-- Databases: PostgreSQL, MySQL, MongoDB, Couchbase, SQLite
-- Search: Elasticsearch
-- Messaging: AWS SQS, Kafka, RabbitMQ
-- Cloud: AWS, GCP
-- DevOps: Docker, Docker Compose, CI/CD pipelines
-
-Quality
-- Testing: Pytest, Jest, Cypress
-- Production Monitoring: logs, metrics, AI output tracing
+- Hands-on experience with LLM providers (OpenAI, Anthropic, Gemini)
+- Prompt architecture with reusable templates, contracts, and versioning
+- Agentic systems with tool calling, memory, and multi-step workflows
+- RAG pipelines using embeddings, hybrid search, and reranking
+- Vector databases: Milvus, Pinecone, FAISS, pgvector
+- LLM evaluation, quality tracking, hallucination reduction
 
 <img align="left" alt="Python" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
