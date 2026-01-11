@@ -1,25 +1,25 @@
 ### Hi there! 👋 I’m Vick
 
-🚀 I’m a Senior Software Engineer with 10+ years of experience building, scaling, and maintaining production-grade systems across web, backend, and cloud infrastructure. Over the years, I’ve worked on everything from core business platforms to high-traffic SaaS products, always with a strong focus on reliability, performance, and clean architecture.
+🚀 I’m a Senior Full-Stack Engineer with 11+ years of experience building and running production-grade products. I’ve worked across backend, frontend, and cloud infrastructure, with a strong focus on clean architecture, reliability, and long-term maintainability.
 
-👨‍💻 I enjoy owning systems end to end, from system design and API architecture, to database modeling, infrastructure, and long-term maintainability. I care deeply about writing clear, testable code and building systems that other engineers can confidently extend.|
+👨‍💻 I like owning features end to end - from system design and APIs to frontend delivery, databases, and infrastructure. I care about writing clear, testable code and building systems that other engineers can confidently extend.
 
-🤖 In recent years, I’ve specialized in AI-powered software, integrating LLMs into real products — not as experiments, but as first-class system components. My approach to AI is strongly engineering-driven: designing workflows, safeguards, and infrastructure so AI features remain stable, observable, and cost-effective in production.
+🤖 In recent years, I’ve focused on AI-powered products, integrating LLMs into real-world systems. I treat AI as a core system component, with proper design, monitoring, and cost control - not as an experiment.
 
 
 ### What I'm currently focusing 📚
-- Building and scaling production-ready backend systems
-- Designing APIs and system architectures for long-term growth
-- Developing AI-assisted features that automate real business workflows
-- Improving reliability, performance, and observability of AI systems
+- Building scalable, production-ready systems
+- Designing APIs and frontend architecture for long-term growth
+- Developing AI-assisted features that automate real workflows
+- Improving reliability, observability, and performance in production
 
 🧰 Software Engineering Expertise 
-- Backend system design, clean architecture, and domain-driven thinking
-- API development (REST, async workflows, background jobs)
-- Data modeling and performance optimization
-- Distributed systems, messaging, and event-driven architecture
+- Full-stack system design with clean, maintainable architecture
+- API development (REST, async workflows, real-time, background jobs)
+- Frontend architecture, state management, and performance
+- Distributed systems, messaging, and event-driven design
 - Cloud infrastructure, CI/CD, and production monitoring
-- Writing tests and building systems that are easy to maintain over time
+- Writing tests and maintaining high code quality over time
 
 🤖 AI & LLM Expertise
 - Hands-on experience with LLM providers (OpenAI, Anthropic, Gemini)
