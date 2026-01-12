@@ -1,6 +1,6 @@
 ### Hi there! 👋 I’m Vick
 
-🚀 I’m a Senior Full-Stack Engineer with 11+ years of experience building and running production-grade products. I’ve worked across backend, frontend, and cloud infrastructure, with a strong focus on clean architecture, reliability, and long-term maintainability.
+🚀 I’m a Senior Software Engineer with 11+ years of experience building and running production-grade products. I’ve worked across backend, frontend, and cloud infrastructure, with a strong focus on clean architecture, reliability, and long-term maintainability.
 
 👨‍💻 I like owning features end to end - from system design and APIs to frontend delivery, databases, and infrastructure. I care about writing clear, testable code and building systems that other engineers can confidently extend.
 
