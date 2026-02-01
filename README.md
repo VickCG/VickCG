@@ -4,7 +4,7 @@
 
 👨‍💻 I like owning features end to end - from system design and APIs to frontend delivery, databases, and infrastructure. I care about writing clear, testable code and building systems that other engineers can confidently extend.
 
-🤖 In recent years, I’ve focused on AI-powered products, integrating LLMs into real-world systems. I treat AI as a core system component, with proper design, monitoring, and cost control - not as an experiment.
+🤖 In recent years, I’ve focused on AI-powered products, integrating LLMs into real-world systems.
 
 
 ### What I'm currently focusing 📚
