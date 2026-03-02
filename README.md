@@ -1,10 +1,11 @@
 ### Hi there! 👋 I’m Vick
 
-🚀 I’m a full-stack engineer with 11+ years of experience building and maintaining production systems. I work across backend architecture, APIs, frontend integration, and cloud infrastructure — with a strong focus on reliability and long-term maintainability.
+🚀 I’m a full-stack engineer with 11+ years of experience building and maintaining production systems across backend, frontend, and cloud infrastructure.
 
-👨‍💻 I enjoy owning features end-to-end and turning complex ideas into stable, scalable systems.
+👨‍💻 I enjoy owning features end-to-end — from system design and APIs to frontend delivery and deployment. Much of my work has focused on improving stability, refactoring complex modules, and making systems safe to evolve over time.
 
-🤖 Lately, I’ve been building AI-powered features and integrating LLMs into real products, focusing on practical use cases.
+🤖 More recently, I’ve been integrating LLMs into real products, designing conversational workflows and retrieval pipelines that operate reliably in production.
+I care about clean architecture, rollback safety, and building systems that stay stable under pressure.
 
 <img align="left" alt="Python" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
