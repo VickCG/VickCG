@@ -1,33 +1,10 @@
 ### Hi there! 👋 I’m Vick
 
-🚀 I’m a Senior Software Engineer with 11+ years of experience building and running production-grade products. I’ve worked across backend, frontend, and cloud infrastructure, with a strong focus on clean architecture, reliability, and long-term maintainability.
+🚀 I’m a full-stack engineer with 11+ years of experience building production systems. In recent years, I’ve been focused on integrating AI into real-world products — from backend architecture and API design to frontend delivery and cloud infrastructure.
 
-👨‍💻 I like owning features end to end - from system design and APIs to frontend delivery, databases, and infrastructure. I care about writing clear, testable code and building systems that other engineers can confidently extend.
+👨‍💻 I enjoy working end-to-end: system design, APIs, frontend integration, and infrastructure. Most of my work is about making complex systems stable and usable in production.
 
-🤖 In recent years, I’ve focused on AI-powered products, integrating LLMs into real-world systems.
-
-
-### What I'm currently focusing 📚
-- Building scalable, production-ready systems
-- Designing APIs and frontend architecture for long-term growth
-- Developing AI-assisted features that automate real workflows
-- Improving reliability, observability, and performance in production
-
-🧰 Software Engineering Expertise 
-- Full-stack system design with clean, maintainable architecture
-- API development (REST, async workflows, real-time, background jobs)
-- Frontend architecture, state management, and performance
-- Distributed systems, messaging, and event-driven design
-- Cloud infrastructure, CI/CD, and production monitoring
-- Writing tests and maintaining high code quality over time
-
-🤖 AI & LLM Expertise
-- Hands-on experience with LLM providers (OpenAI, Anthropic, Gemini)
-- Prompt architecture with reusable templates, contracts, and versioning
-- Agentic systems with tool calling, memory, and multi-step workflows
-- RAG pipelines using embeddings, hybrid search, and reranking
-- Vector databases: Milvus, Pinecone, FAISS, pgvector
-- LLM evaluation, quality tracking, hallucination reduction
+🤖 In recent years, I’ve been working more on AI-powered features, integrating LLMs into real production systems.
 
 <img align="left" alt="Python" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
