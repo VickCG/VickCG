@@ -1,10 +1,10 @@
 ### Hi there! 👋 I’m Vick
 
-🚀 I’m a full-stack engineer with 11+ years of experience building production systems. In recent years, I’ve been focused on integrating AI into real-world products — from backend architecture and API design to frontend delivery and cloud infrastructure.
+🚀 I’m a full-stack engineer with 11+ years of experience building and maintaining production systems. I work across backend architecture, APIs, frontend integration, and cloud infrastructure — with a strong focus on reliability and long-term maintainability.
 
-👨‍💻 I enjoy working end-to-end: system design, APIs, frontend integration, and infrastructure. Most of my work is about making complex systems stable and usable in production.
+👨‍💻 I enjoy owning features end-to-end and turning complex ideas into stable, scalable systems.
 
-🤖 In recent years, I’ve been working more on AI-powered features, integrating LLMs into real production systems.
+🤖 Lately, I’ve been building AI-powered features and integrating LLMs into real products, focusing on practical use cases.
 
 <img align="left" alt="Python" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
